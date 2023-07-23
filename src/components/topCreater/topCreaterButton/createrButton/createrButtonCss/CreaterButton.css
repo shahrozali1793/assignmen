@@ -1,0 +1,19 @@
+.createrBtn{
+    border-radius: 20px;
+border: 2px solid var(--call-to-action, #A259FF);
+}
+
+.createrBtn :hover{
+    background: var(--call-to-action, #A259FF);
+}
+
+.createrBtn2{
+    background: var(--call-to-action, #A259FF);
+}
+
+@media screen and (max-width: 1280px) {
+    .createrBtn{
+        display: none;
+    }
+    
+  }

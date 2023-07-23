@@ -1,0 +1,8 @@
+.subscribe{
+    background: var(--background, #2B2B2B);
+}
+
+.clr{
+    background: #3B3B3B;
+    border-radius: 20px;
+}

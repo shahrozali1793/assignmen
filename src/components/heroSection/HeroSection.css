@@ -1,0 +1,14 @@
+.heroSection{
+    background: var(--background, #2B2B2B);
+    padding: 40px 0px;
+
+}
+.card-body{
+    
+    border-radius: 0px 0px 20px 20px;
+background: var(--background-secondary, #3B3B3B);
+}
+
+.cardss{
+    background: var(--background, #2B2B2B);
+}
